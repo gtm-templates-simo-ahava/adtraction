@@ -1,10 +1,19 @@
-﻿___INFO___
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
 
 {
   "displayName": "Adtraction",
   "description": "Template for adding the Adtraction affiliate script to the page.",
   "__wm": "VGVtcGxhdGUtQXV0aG9yX0FkdHJhY3Rpb24tU2ltby1BaGF2YQ==",
   "securityGroups": [],
+  "categories": ["ADVERTISING"],
   "id": "cvt_temp_public_id",
   "type": "TAG",
   "version": 1,
